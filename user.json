@@ -1,15 +1,28 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
+    "alias": "王志向",
+    "phone": "17513860629",
+    "password": "wzx070610100.",
+    "deviceType": "Vivo|vivo Y73s|10",
+    "deviceId": "58c568d244bf49989424df47743e93e7f0ce",
+    "randomLocation": true,
+    "address": "中国河南省鹤壁市淇滨区金融大厦",
+    "longitude": "114.274082",
+    "latitude": "35.708396",
+    "pushKey": "548dc3a6fc054f22a4ac15787abb4547"
+  },
+  {
+    "enable": true,
+    "alias": "刘振凯",
+    "phone": "410603200301273016",
+    "password": "SXba#2022",
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
-  }
+    "deviceId": "1efbe1124d044ac3b4518a2f9fecdde7f602",
+    "randomLocation": true,
+    "address": "中国河南省鹤壁市淇滨区金融大厦",
+    "longitude": "114.274082",
+    "latitude": "35.708396",
+    "pushKey": "548dc3a6fc054f22a4ac15787abb4547"
+   }
 ]
